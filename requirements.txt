@@ -25,7 +25,7 @@ starlette==0.27.0
 storage3==0.4.0
 StrEnum==0.4.15
 supabase==0.7.1
-supafunc==0.3.1
+supafunc==0.2.2
 typing_extensions==4.8.0
 uvicorn==0.24.0.post1
 uvloop==0.19.0
